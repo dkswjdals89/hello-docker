@@ -1,0 +1,5 @@
+node_modules/
+migration-queries/
+coverage/
+package-lock.json
+.npmrc
